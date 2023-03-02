@@ -3,7 +3,10 @@
     height: 400px;
     color: $texto-cor-primaria;
     font-family: $font-primaria;
-
+    .swiper {
+        width: 600px;
+        height: 300px;
+    }
     .container__fazer{
         display: flex;
         align-items: center;

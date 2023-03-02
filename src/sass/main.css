@@ -227,6 +227,10 @@ table {
   color: #FFFFFF;
   font-family: "Saira", sans-serif;
 }
+.fazer .swiper {
+  width: 600px;
+  height: 300px;
+}
 .fazer .container__fazer {
   display: flex;
   align-items: center;
